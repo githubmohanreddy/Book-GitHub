@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 
 @ControllerAdvice
 class GlobalExceptionHandler {
-// Here I want to write a code for Exception Handler
+// Here I want to write a code for Exception Handler.
 
 
 }
