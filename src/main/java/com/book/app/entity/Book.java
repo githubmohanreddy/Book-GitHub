@@ -14,42 +14,42 @@ public class Book {
     private String bookAuthor;
     private String genre;
 
-    public Book(String id, String bookName, String bookAuthor, String genre) {
-        this.id = id;
-        this.bookName = bookName;
-        this.bookAuthor = bookAuthor;
-        this.genre = genre;
-    }
+    // public Book(String id, String bookName, String bookAuthor, String genre) {
+    //     this.id = id;
+    //     this.bookName = bookName;
+    //     this.bookAuthor = bookAuthor;
+    //     this.genre = genre;
+    // }
 
-    public String getId() {
-        return id;
-    }
+    // public String getId() {
+    //     return id;
+    // }
 
-    public void setId(String id) {
-        this.id = id;
-    }
+    // public void setId(String id) {
+    //     this.id = id;
+    // }
 
-    public String getBookName() {
-        return bookName;
-    }
+    // public String getBookName() {
+    //     return bookName;
+    // }
 
-    public void setBookName(String bookName) {
-        this.bookName = bookName;
-    }
+    // public void setBookName(String bookName) {
+    //     this.bookName = bookName;
+    // }
 
-    public String getBookAuthor() {
-        return bookAuthor;
-    }
+    // public String getBookAuthor() {
+    //     return bookAuthor;
+    // }
 
-    public void setBookAuthor(String bookAuthor) {
-        this.bookAuthor = bookAuthor;
-    }
+    // public void setBookAuthor(String bookAuthor) {
+    //     this.bookAuthor = bookAuthor;
+    // }
 
-    public String getGenre() {
-        return genre;
-    }
+    // public String getGenre() {
+    //     return genre;
+    // }
 
-    public void setGenre(String genre) {
-        this.genre = genre;
-    }
+    // public void setGenre(String genre) {
+    //     this.genre = genre;
+    // }
 }
